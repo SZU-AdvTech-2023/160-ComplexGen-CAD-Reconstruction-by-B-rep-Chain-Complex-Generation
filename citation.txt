@@ -1,0 +1,9 @@
+@article{REPO160,
+    author = "Guo, Haoxiang and Liu, Shilin and Pan, Hao and Liu, Yang and Tong, Xin and Guo, Baining",
+    journal = "ACM Transactions on Graphics (TOG)",
+    number = "4",
+    pages = "1--18",
+    title = "{ComplexGen: CAD Reconstruction by B-rep Chain Complex Generation}",
+    volume = "41",
+    year = "2022"
+}
