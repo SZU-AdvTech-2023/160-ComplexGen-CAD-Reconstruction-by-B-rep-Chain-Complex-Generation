@@ -1,0 +1,11 @@
+trim_type = "trim_json"
+save_intermediate = false
+save_curve = false
+alpha_value = 0.08
+epsilon = 0.01
+test_ids = ['00990044']
+point_cloud_input_dir = "D:/CppProjects/ComplexGenTrim/original_point_cloud/"
+json_input_dir = "D:/CppProjects/ComplexGenTrim/adv_experiment/"
+obj_input_dir = "D:/CppProjects/ComplexGenTrim/00990042/"
+obj_trim_point_cloud_input_dir = "D:/CppProjects/ComplexGenTrim/00990042/"
+save_dir = "D:/CppProjects/ComplexGenTrim/adv_experiment/"
